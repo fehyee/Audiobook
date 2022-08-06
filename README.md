@@ -1,5 +1,5 @@
 # PDF to Audio file using python
-This code presents a simple way to combine different python libaries for creating an Audiobook that
+This code presents a simple way to combine different python libraries for creating an Audio-book that
 takes PDF file path as input and reads the text in the PDF file to the user via audio. It also has 
 the option of saving to the device as an mp3 file.
 
