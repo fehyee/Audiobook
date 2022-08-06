@@ -1,3 +1,8 @@
-# Audiobook
-This python code converts pdf files into an audio book and then saves to your device.
-The project was built using python's text-to-speech library (pyttsx3) and PDF library (pyPDF) to open and read the file.
+# PDF to Audio file using python
+This code presents a simple way to combine different python libaries for creating an Audiobook that
+takes PDF file path as input and reads the text in the PDF file to the user via audio. It also has 
+the option of saving to the device as an mp3 file.
+
+## Prequisite Softwares
+pip install pyttsx3  # -------- python text-to-speech v.3
+pip install pyPDF    # -------- PDF library for working with PDF
